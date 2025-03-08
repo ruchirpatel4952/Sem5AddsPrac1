@@ -1,0 +1,7 @@
+Player class is an abstract base class which defines interface for all with makemove() and getname().
+
+human asks their move, name can be changed or can be human by default.
+
+computer always returns rock.
+
+referee compares both moves.
